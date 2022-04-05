@@ -9,4 +9,4 @@ https://arxiv.org/abs/1904.12848
 
 https://keras.io/examples/vision/consistency_training/
 
-https://happywhale.com
+https://www.happywhale.com
